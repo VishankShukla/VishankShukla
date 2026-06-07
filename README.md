@@ -1,5 +1,6 @@
 # 💫 Hello, I'm Vishank Shukla.
 - Btech CSE Final Year Student
+- Software Engineer Aspirant
 - Mern Stack Developer
 
 
